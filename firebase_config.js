@@ -3,12 +3,12 @@
 /*---------------------------Replace------------------------------*/
 
 var firebaseConfig = {
-    apiKey: "AIzaSyB9eBs10atrgeGAI-WQm6UO72lhzmT-vpo",
-    authDomain: "thefirecdn.firebaseapp.com",
-    projectId: "thefirecdn",
-    storageBucket: "thefirecdn.appspot.com",
-    messagingSenderId: "707022422419",
-    appId: "1:707022422419:web:b51d29ade5652390246866"
+  apiKey: "AIzaSyC4yb0m-_5tlJjKRXu6Uic4q3V7z6MApew",
+  authDomain: "alix-cdn.firebaseapp.com",
+  projectId: "alix-cdn",
+  storageBucket: "alix-cdn.appspot.com",
+  messagingSenderId: "647558735266",
+  appId: "1:647558735266:web:3ba5cc6482e2f05ca1fefb"
 };
 
 /*---------------------------Replace------------------------------*/
